@@ -20,19 +20,19 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Título do Projeto Aprendendo IA ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Através do Bootcamp CAIXA/ DIO sobre IA e Copilot estou aperfeiçoando conhecimentos.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatGPT, GitHub.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Conteúdo criado a partir de aprendizado e buscas na web.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Cada dia aprendo uma nova habilidade e cresço profissional e pessoalmente com isso.
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
